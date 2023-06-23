@@ -32,7 +32,7 @@ matrix6gj3i5dk42xjgqzd25pe5lo3654lf5wn76bfp2ns7klsaklvad.onion
 
 Ao digitar o endereço acima no navegador tor, brave, você será redirecionado para o serviço que esta rodando em `localhost:80`. Pronto, você já tem um servidor na rede tor.
 
-# Criação de servidor com docker e dominio personalizado
+# Criação de servidor docker e dominio personalizado
 
 ## Criação de domino personalizado
 
