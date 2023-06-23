@@ -75,6 +75,6 @@ docker-compose up --build
 
 Se tudo ocorrer bem, você verá a página inicial do site, basta acessar o endereço encontrado no arquivo hostname em `hidden_service`. Exemplo: `matrix6gj3i5dk42xjgqzd25pe5lo3654lf5wn76bfp2ns7klsaklvad.onion`. Deverá ser acessado utilizando o navegador tor, brave, etc.
 
-## Pagina exibida no navegador
+### Pagina
 
 [![image](./.assets/matrix.gif)](https://matrix6gj3i5dk42xjgqzd25pe5lo3654lf5wn76bfp2ns7klsaklvad.onion)
